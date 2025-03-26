@@ -9,3 +9,7 @@ const login = () => {
 const password = () => {
     console.log("password");
 }
+
+const email_validation = () => {
+    return true 
+}
